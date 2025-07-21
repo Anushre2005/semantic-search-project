@@ -3,5 +3,5 @@ numpy
 scikit-learn
 streamlit
 pinecone-client
-torch # or tensorflow, depending on what you installed for sentence-transformers backend
+torch --index-url https://download.pytorch.org/whl/cpu
 transformers # needed for sentence-transformers
