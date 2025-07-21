@@ -21,7 +21,7 @@ Scalable Architecture: Demonstrates a fundamental architecture for building real
 
 Experience the Semantic Search Engine live on Streamlit Community Cloud:
 
-👉 semantic-search-project-x6tb6zaanzfylxz42jtkpt.streamlit.app
+👉 https://semantic-search-project-x6tb6zaanzfylxz42jtkpt.streamlit.app/
 
 (Important: Please replace YOUR_STREAMLIT_APP_URL_HERE with the actual URL of your deployed Streamlit app once it's live. You will get this URL from the Streamlit Community Cloud dashboard after successful deployment.)
 
